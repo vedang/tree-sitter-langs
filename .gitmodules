@@ -151,3 +151,9 @@
 	update = none
     ignore = dirty
     branch = master
+[submodule "repos/yaml"]
+	path = repos/yaml
+	url = https://github.com/ikatyang/tree-sitter-yaml.git
+    update = none
+    ignore = dirty
+    branch = master
